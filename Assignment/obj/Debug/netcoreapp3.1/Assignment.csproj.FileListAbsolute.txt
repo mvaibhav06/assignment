@@ -1,0 +1,15 @@
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Sample.txt
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\vaibhav-projects\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\vaibhav-projects\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
